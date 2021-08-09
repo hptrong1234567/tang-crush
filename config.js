@@ -1,19 +1,14 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <3333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
-}
+    introTitle: 'Eyeu eyyyyyyyyyyyyyyy',
+    introDesc: `Anh chỉ muốn nói là anh yêu em nhiều lammmmmmmmmmmmm ạ.`,
+    btnIntro: 'hoho',
+    title: 'Dm anh muốn hun em, muonnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn hunnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn.',
+    desc: 'À anh cũng muốn đc ôm nữaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa hic =((. ',
+    btnYes: 'Yêu anh lắm ạ.',
+    btnNo: 'Bấm nút này đấm cho mấy phát.',
+    question:'Tell me the reason why u love me :33',
+    btnReply: 'Tell meeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.',
+    reply: 'Tại vì anh dth vãi loz. ',
+    mess: 'Xời đc khen ngại quéeeeeeeeeeeeeeeeeeeee hì.',
+    messDesc: 'Sức chịu đựng của anh có giới thiệu cho nên là vào học lại coi chừng có con lợn bị đè xuống hunn',
+    btnAccept: 'Hoho =}}',
